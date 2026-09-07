@@ -1,0 +1,12 @@
+.vs/
+bin/
+obj/
+dist/
+build/
+__pycache__/
+*.py[cod]
+*.pdb
+*.user
+*.suo
+*.spec
+
